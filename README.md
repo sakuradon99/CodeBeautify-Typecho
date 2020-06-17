@@ -29,3 +29,8 @@ var pres = document.getElementsByTagName('pre');
                         pres[i].className  = 'line-numbers';}
 Prism.highlightAll(true,null);}
 ```
+
+### prism.js:
+```
+https://prismjs.com/download.html#themes=prism-coy&languages=markup+css+clike+javascript+aspnet+bash+c+csharp+cpp+css-extras+dart+docker+git+go+groovy+java+json+kotlin+less+markdown+markup-templating+nginx+objectivec+php+plsql+powershell+properties+python+jsx+tsx+solidity+sql+swift+typescript+yaml&plugins=line-numbers+highlight-keywords+inline-color
+```
